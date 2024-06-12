@@ -3,26 +3,27 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
-### 🌟 A Little About Me 🌷
-♡︎ My name is Camila Fabian.
-♡︎ I live in Argentina.
-♡︎ i'm currently 20 and willing to learn more about software development.
-♡︎ I’m currently working on improving my skills and working on personal proyects.
+<h1>🌟 A Little About Me 🌷</h1>
+<p>♡︎ My name is Camila Fabian.</p>
+<p>♡︎ My name is Camila Fabian.</p>
+<p>♡︎ I live in Argentina.</p>
+<p>♡︎ i'm 20 and willing to learn more about software development.</p>
+<p>♡︎ I’m currently working on improving my skills and working on personal proyects.</p>
 
 <h2>🎓 Academic Background</h2>
-    ✮ **Systems Engineering** | National Technological University (UTN)
-    ✮ Currently pursuing a dynamic program specializing in software development and integrated systems, with a keen focus on staying abreast of the latest advancements and industry trends.
+<p>  ✮ **Systems Engineering** | National Technological University (UTN)</p>
+<p>  ✮ Currently pursuing a dynamic program specializing in software development and integrated systems, with a keen focus on staying abreast of the latest advancements and industry trends.</p>
 <h2>🌱 Professional Growth</h2>
-    ✮ Full Stack Web Development Course
-    ✮ Currently undertaking a full stack web development course, exploring cutting-edge technologies and honing skills in both frontend and backend development.
+<p>✮ Full Stack Web Development Program</p>
+<p>✮ Currently undertaking a full stack web development course, exploring cutting-edge technologies and honing skills in both frontend and backend development.</p>
 <h2>💼 Experience and Skills</h2>
-  ✮ Graphic Design and Systems Design
+<h3>✮ Graphic Design and Systems Design</h3>
       ♡︎ I possess skills in both graphic design and systems design, enabling me to approach projects from both a creative and structured perspective.
-  ✮ Logical and Abstract Thinking
+<p>✮ Logical and Abstract Thinking</p>
       ♡︎ My engineering background has strengthened my ability to think logically and abstractly, allowing me to tackle complex problems with innovative approaches.
-  ✮ Teamwork and Effective Communication
+<p>✮ Teamwork and Effective Communication</p>
       ♡︎ I enjoy collaborating in teams and have strong communication skills, enabling me to contribute effectively in collaborative environments.
-  ✮ Adaptability and Problem-Solving
+<p>✮ Adaptability and Problem-Solving</p>
       ♡︎ I am adaptable and adept at proactively tackling challenges, seeking efficient and effective solutions at all times.
 <h2>🌐 Languages</h2>
 English: B2+ Level
